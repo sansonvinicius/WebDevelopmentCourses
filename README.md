@@ -1,2 +1,2 @@
 # WebDevelopmentCourses
-Save some web development project
+Save some web development projects

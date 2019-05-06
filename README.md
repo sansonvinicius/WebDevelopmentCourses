@@ -1,2 +1,3 @@
-# WebDevelopmentCourses
-Save some web development projects from courses that I did.
+# Basic CSS
+Basic CSS Projects course Desenvolvimento Web Completo - Prof. Jamilton Damasceno
+
